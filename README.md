@@ -1,6 +1,7 @@
 # 🔥🔥 Flutter Traveler's Social App  [![Twitter Follow](https://img.shields.io/twitter/follow/dev_femi.svg?style=social)](https://twitter.com/dev_femi)
 Flutter Blog App
 
+<a href="apk/app.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 ## ✨ Libraries & Techs used
 * Provider (state management)
 * MVVM Architecture 
