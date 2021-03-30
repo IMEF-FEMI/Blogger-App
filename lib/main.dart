@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
-        title: 'Trofira PArtner App',
+        title: 'blogger App',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           primarySwatch: AppColors.primarySwatch,
